@@ -8,7 +8,7 @@ From my perspective, Linear Algebra is very important to AI. It helps to deal wi
 I think it is good for me. But the most important thing for me is to get familiar with the English words.
 
 4.What did you like/dislike about the plotting tools?
-I want to try more plotting tools in order to make it clear and look beautiful. I like visualization results are user-freindly, so I need to do more practice.
+I want to try more plotting tools in order to make it clear and look beautiful. I like visualization results are user-freindly, so I need to do more practice,  such as Matplotlib, Seaborn, or Plotly.I also want to create 3D plots to visualize a plane's normal vector
 
 5.Did you feel like the homework problems were a good use of your time? If you could change this assignment for future students, what might you want to see happen?
 Yes, I think it is a good use of my time. I suggest give some assigments for students to do practice by themselves, which are not included in the score. 
